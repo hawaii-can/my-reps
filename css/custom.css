@@ -24,6 +24,10 @@ a {
     color: #eb8f22;
 }
 
+body.body-white {
+    background: #fff;
+}
+
 .table > thead > tr > th { 
     white-space: nowrap;
 }
